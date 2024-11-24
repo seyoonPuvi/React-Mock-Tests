@@ -10,3 +10,6 @@
 [submodule "React-MockTest-2a"]
 	path = React-MockTest-2a
 	url = https://github.com/seyoonPuvi/React-MockTest-2a.git
+[submodule "React-MockTest-2b"]
+	path = React-MockTest-2b
+	url = https://github.com/seyoonPuvi/React-MockTest-2b.git
